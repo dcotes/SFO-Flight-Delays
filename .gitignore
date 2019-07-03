@@ -1,1 +1,2 @@
-.ipynb_checkpoints
+# Ignore notebook checkpoints folder
+.ipynb_checkpoints/
