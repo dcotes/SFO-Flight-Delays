@@ -19,4 +19,10 @@ ________
  
  * [TransScrape](https://github.com/dcotes/SFO-Flight-Delays/blob/master/TransScrape.ipynb) - Notebook to scrape and process departures data from [transtats gov website](https://www.transtats.bts.gov/)
  * [FaresScrape](https://github.com/dcotes/SFO-Flight-Delays/blob/master/FaresScrape.ipynb) - Notebook to scrape and process average fares from SFO to all destination cities. 
+ 
+ ### Data Processing notebook
+ 
+ * [Flights](https://github.com/dcotes/SFO-Flight-Delays/blob/master/Flights.ipynb) - Notebook to combine data and save as departures.pkl
+ note: If you don't want to go through all the scraping yourself but are interested in trying out tuning the models, I suggest you start with departures.pkl as the raw data files were too big to commit to github.
+ 
  #### More coming: Stay tuned!
