@@ -15,8 +15,8 @@ ________
  ## Table of Contents
  _________________
  
- ### Data acqusition and processing notebooks
+ ### Data acqusition notebooks
  
- * TransScrape - Notebook to scrape and process departures data from [transtats gov website](https://www.transtats.bts.gov/)
- * FaresScrape - Notebook to scrape and process average fares from SFO to all destination cities. 
+ * [TransScrape](https://github.com/dcotes/SFO-Flight-Delays/blob/master/TransScrape.ipynb) - Notebook to scrape and process departures data from [transtats gov website](https://www.transtats.bts.gov/)
+ * [FaresScrape](https://github.com/dcotes/SFO-Flight-Delays/blob/master/FaresScrape.ipynb) - Notebook to scrape and process average fares from SFO to all destination cities. 
  #### More coming: Stay tuned!
